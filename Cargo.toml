@@ -1,0 +1,12 @@
+[package]
+name = "get_network"
+version = "0.1.0"
+authors = ["tingfei <1228959039@qq.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ic-agent = "0.11.1"
+ring = "0.16.20"
+futures = "0.3.19"
